@@ -1,0 +1,36 @@
+.tab-header {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 30px;
+  background-color: white;
+  margin-bottom: 8px;
+  padding-top: 15px;
+}
+.tab-header li {
+  display: inline;
+  padding: 7px 12px;
+  cursor: pointer;
+  color: var(--unnamed-color-8e8e8e);
+}
+.tab-header li.active {
+  border: none;
+  color: blue;
+  border-bottom: 2px solid blue;
+}
+
+/*.tab-header li:hover {
+  border: none;
+  color: blue;
+  border-bottom: 2px solid blue;
+}*/
+.tab-content {
+  position: relative;
+}
+/*.tab-child {
+  height: 100%;
+}*/
+.tabs {
+  background: var(--unnamed-color-f3f3f3);
+  padding: 20px;
+}

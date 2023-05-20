@@ -1,0 +1,9 @@
+.summarySection {
+  height: 100%;
+  background: var(--main-bg-color);
+  width: 100%;
+  border-radius: 10px;
+}
+.fullHeight {
+  height: 100%;
+}

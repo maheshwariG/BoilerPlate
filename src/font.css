@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Effra';
+    font-style: normal;
+    font-weight: normal;
+    src:
+      url('./fonts/EffraW01-Light.woff2') format('woff2'),
+      url('./fonts/TerminaW00-Bold.woff2') format('woff2');
+  }
+
